@@ -9,5 +9,5 @@
   <summary>My GitHub Stats</summary>
   
   <a href="#">![github stats](https://github-readme-stats.vercel.app/api?username=Suganth27)</a>
-  <a href="#">![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=infinitytmbots&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&layout=compact)</a>
+  <a href="#">![github stats](https://github-readme-stats.vercel.app/api/top-langs?username=suganth27&count_private=true&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&layout=compact)</a>
 </details>
