@@ -1,4 +1,5 @@
 <p align="center">
+꒷︶໑꒦₊꒷꒥︶꒥꒷︶‧₊꒷︶꒦︶꒥꒷︶‧₊˚︶꒷꒷꒦꒥໑꒷ <br>
   I'm a <b> Cloud & DevOps student and UI Designer</b>, actively seeking for internships.<br/><br/>
   <img src="https://skillicons.dev/icons?perline=6&theme=dark&i=mysql,npm,nodejs,notion,postman,react,figma,git,gmail,html,ai,java,js,linkedin,materialui,sublime,supabase,tailwind,cpp,css,discord,docker,ubuntu,vscode,windows,aws,babel,bash,bootstrap,c" />
 </p>
