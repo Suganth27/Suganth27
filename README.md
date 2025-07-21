@@ -7,7 +7,7 @@
 <p align="center">
   Working on projects and curious to gain knowledge.
   <br>
-  Feel free to contact me either via discord (<a href="https://discord.com/users/759717276311224320">suganth27</a>), or LinkedIn(<a href="https://www.linkedin.com/in/suganth27/">Suganth S</a>) or via <a href="mailto:suganth27iot@gmail.com">email</a>.
+  Feel free to contact me either via Discord (<a href="https://discord.com/users/759717276311224320">suganth27</a>), or LinkedIn (<a href="https://www.linkedin.com/in/suganth27/">Suganth S</a>) or via <a href="mailto:suganth27iot@gmail.com">email</a>.
 
 <details>
   <summary>My GitHub Stats</summary>
